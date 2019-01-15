@@ -1,2 +1,7 @@
 *.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 *.meta filter=lfs diff=lfs merge=lfs -text
+*data.npz filter=lfs diff=lfs merge=lfs -text
+*pairwise.pickle filter=lfs diff=lfs merge=lfs -text
+*ain_raw.pickle filter=lfs diff=lfs merge=lfs -text
+*data.pickle filter=lfs diff=lfs merge=lfs -text
+*ain_contexts.json filter=lfs diff=lfs merge=lfs -text
